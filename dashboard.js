@@ -31,31 +31,31 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo5.JPG" alt="Photo 5" onclick="openLightbox('img/photo5.jpg')">
+                        <img src="img/photo5.jpg" alt="Photo 5" onclick="openLightbox('img/photo5.jpg')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo6.JPG" alt="Photo 6" onclick="openLightbox('img/photo6.jpg')">
+                        <img src="img/photo6.jpg" alt="Photo 6" onclick="openLightbox('img/photo6.jpg')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo7.JPG" alt="Photo 7" onclick="openLightbox('img/photo7.jpg')">
+                        <img src="img/photo7.jpg" alt="Photo 7" onclick="openLightbox('img/photo7.jpg')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo8.JPG" alt="Photo 8" onclick="openLightbox('img/photo8.jpg')">
+                        <img src="img/photo8.jpg" alt="Photo 8" onclick="openLightbox('img/photo8.jpg')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo9.JPG" alt="Photo 9" onclick="openLightbox('img/photo9.jpg')">
+                        <img src="img/photo9.jpg" alt="Photo 9" onclick="openLightbox('img/photo9.jpg')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo10.JPG" alt="Photo 10" onclick="openLightbox('img/photo10.jpg')">
+                        <img src="img/photo10.jpg" alt="Photo 10" onclick="openLightbox('img/photo10.jpg')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo11.JPG" alt="Photo 11" onclick="openLightbox('img/photo11.jpg')">
+                        <img src="img/photo11.jpg" alt="Photo 11" onclick="openLightbox('img/photo11.jpg')">
                     </div>                    
                 </div>
                 <button id="download-selected" class="download-btn">Télécharger la sélection</button>
@@ -429,7 +429,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 lat: 37.9838,
                 lng: 23.7275,
                 description: "",
-                image: "img/photoathen.JPG" // Using placeholder for testing
+                image: "img/photoathen.jpg" // Using placeholder for testing
             },
             {
                 id: 3,
@@ -438,7 +438,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 lat: 47.2184,
                 lng: -1.5536,
                 description: "",
-                image: "img/photofamille.JPG" // Using placeholder for testing
+                image: "img/photofamille.jpg" // Using placeholder for testing
             },
             {
                 id: 4,

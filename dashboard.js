@@ -15,19 +15,19 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="photo-gallery">
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo1.JPG" alt="Photo 1" onclick="openLightbox('img/photo1.jpg')">
+                        <img src="img/photo1.JPG" alt="Photo 1" onclick="openLightbox('img/photo1.JPG')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo2.JPG" alt="Photo 2" onclick="openLightbox('img/photo2.jpg')">
+                        <img src="img/photo2.JPG" alt="Photo 2" onclick="openLightbox('img/photo2.JPG')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo3.JPG" alt="Photo 3" onclick="openLightbox('img/photo3.jpg')">
+                        <img src="img/photo3.JPG" alt="Photo 3" onclick="openLightbox('img/photo3.JPG')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
-                        <img src="img/photo4.JPG" alt="Photo 4" onclick="openLightbox('img/photo4.jpg')">
+                        <img src="img/photo4.JPG" alt="Photo 4" onclick="openLightbox('img/photo4.JPG')">
                     </div>
                     <div class="photo">
                         <input type="checkbox" class="select-photo">
@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             <div>Durée</div>
                         </div>
                             <div class="song-item" data-duration="3:45" data-spotify-url="https://open.spotify.com/intl-fr/track/5aIVCx5tnk0ntmdiinnYvw">
-                                <div class="song-number">6</div>
+                                <div class="song-number">1</div>
                                 <div class="song-info">
                                     <div class="song-image-info">
                                         <div class="album-cover">
@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             </div>
 
                             <div class="song-item" data-duration="4:00" data-spotify-url="https://open.spotify.com/intl-fr/track/5aIVCx5tnk0ntmdiinnYvw">
-                                <div class="song-number">7</div>
+                                <div class="song-number">2</div>
                                 <div class="song-info">
                                     <div class="song-image-info">
                                         <div class="album-cover">
@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             </div>
 
                     <div class="song-item" data-duration="3:50">
-                        <div class="song-number">8</div>
+                        <div class="song-number">3</div>
                         <div class="song-info">
                             <div class="song-image-info">
                                 <div class="album-cover">
